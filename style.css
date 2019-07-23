@@ -1,0 +1,31 @@
+html{
+    background-color: rgb(53, 53,53);
+    color: whitesmoke;
+}
+header{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    text-align: center;
+    
+}
+h3{
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    text-align: center;
+}
+.top{
+    text-align: center;
+}
+
+.watch_container{
+    border: #FDEFA6 solid 2px;
+    margin: 10px;
+    border-radius: 13px;
+    padding: 20px;
+    margin: 10px 10px;
+}
+.watch{
+    float:left;
+    height: 200px;
+    width: auto;
+}
